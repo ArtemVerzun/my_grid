@@ -16,5 +16,13 @@
 ![image](https://github.com/ArtemVerzun/my_grid/assets/143192676/2eebe4e5-3524-4759-9400-be13e96d0973)
 
 
+### designations:
+* T - tower
+* 1 - the block where you can build a tower
+* 0 - the block where you can't build a tower
+* r - tower signal radius
+
+I have ideas on how to make a bonus task, if my solution of the first five tasks suits you, then I will be happy to complete the bonus task
+
 
  
