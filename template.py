@@ -1,0 +1,16 @@
+TASK1 = "Task 1: Grid Representation"
+TASK2 = "Task 2: Tower Coverage"
+TASK3 = "Task 3: Optimization Problem"
+TASK4 = "Task 4: Path Reliability"
+TASK5 = "Task 5: Visualization"
+INPUT1 = "Enter the coordinates of the first tower T, separated by a space: "
+INPUT2 = "Enter the coordinates of the second tower T, separated by a space: "
+INPUT3 = "Enter the number of rows in the grid: "
+INPUT4 = "Enter the number of columns in the grid: "
+INPUT5 = "Enter the percentage of coverage: "
+INF = "Example based on a new object"
+INF1 = "Final result"
+INF2 = "In this grid there are blocks that cannot fall within the radius of the tower"
+
+UNDERLINE = "____________________________________________________"
+
